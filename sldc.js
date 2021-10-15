@@ -5,15 +5,21 @@
     Reorganize the following steps of the Software Development Lifecycle to be in their correct order.
 */
 
+// Planning
 // Analysis of Requirements
 // Design
+// Testing & Integration
 // Implementation
 // Maintain
-// Planning
-// Testing & Integration
 
 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
 */
+const planning = `Planning`;
+const analysisOfRequirements = `Analysis of Requirements`;
+const design = `Design`;
+const testingAndIntegration = `Testing and Integration`;
+const implementation = `Implementation`;
+const maintain = `Maintain`;
